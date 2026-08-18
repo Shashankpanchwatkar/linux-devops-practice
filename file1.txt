@@ -1,0 +1,5 @@
+my name is shashank
+hello linux
+
+i am learning devops
+i am learning devops linux is important for aws 
