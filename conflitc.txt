@@ -1,2 +1,3 @@
 
-hello from conglict-changed
+hello from conglict-changed from master
+
